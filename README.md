@@ -40,7 +40,7 @@ This project demonstrates real-time rendering, collision detection, keyboard eve
 ## 🛠️ Tech Highlights
 
 - Built with Pygame-ce for graphics, input, and collision detection.
-Uses `pygame.Rect` objects for efficient movement and hitbox logic.
+- Uses `pygame.Rect` objects for efficient movement and hitbox logic.
 - Clean `Player` class to manage snake state.
 - Self-collision detection.
 - Configurable constants for quick gameplay tweaking.
@@ -64,7 +64,7 @@ Uses `pygame.Rect` objects for efficient movement and hitbox logic.
    pip install -r requirements.txt
    ```
 
-3. Run the simulation:
+3. Run the game:
    ```bash
    python Snake.py
    ```
@@ -85,4 +85,5 @@ You are free to use, modify, and distribute this project as permitted by the lic
 
 <p align="left">
   <img width="500" src="https://github.com/user-attachments/assets/f5a0f154-dee7-4653-9451-caa52513573a" alt="logo" />
+
 </p>
